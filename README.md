@@ -1,5 +1,3 @@
-Of course, Rohan! Here's a refined and well-structured version of your project documentation. I’ve broken it into clear sections with headings, bullets, and emphasis to make it more readable and professional:
-
 🚗 Dynamic Pricing for Urban Parking – Capstone Project
 📌 Project Overview
 This capstone project presents a smart pricing simulation model for urban parking lots. It dynamically adjusts parking prices in real time or batch mode based on several influencing factors. Built using Python, it demonstrates demand-driven pricing algorithms integrated with real-time data processing tools.
